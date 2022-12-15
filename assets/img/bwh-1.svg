@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="bwh-1.svg"
+   id="svg4"
+   version="1.1"
+   viewBox="0 0 1440 320"
+   inkscape:export-filename="C:\Users\Aryandi\Documents\portofolio\assets\img\bwh-1.png"
+   inkscape:export-xdpi="85.333336"
+   inkscape:export-ydpi="85.333336">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg4"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:cy="409.83276"
+     inkscape:cx="602.36771"
+     inkscape:zoom="0.57206903"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="837"
+     inkscape:window-width="1600"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0" />
+  <path
+     id="path2"
+     d="m 1442.877,110.05052 -80.1041,-3.08328 c -80.104,-3.31596 -240.312,-9.133464 -400.52003,0 -160.20803,9.48251 -320.41606,33.91597 -480.62409,46.53992 C 321.4208,165.89841 161.21276,165.89841 81.10874,165.89841 H 1.0047201 V -1.645257 H 81.10874 c 80.10402,0 240.31206,0 400.52004,0 160.20803,0 320.41606,0 480.62409,0 160.20803,0 320.41603,0 400.52003,0 h 80.1041 z"
+     fill-opacity="1"
+     fill="#4698ff"
+     style="fill:#4698ff;fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" />
+</svg>
